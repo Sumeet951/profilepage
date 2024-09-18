@@ -1,0 +1,126 @@
+body {
+  font-family: "Inria Sans", sans-serif;
+  margin: 0;
+}
+.logo {
+  background-image: url("Assets/image (2).png");
+  position: absolute;
+  width: 100%;
+  height: 463px;
+}
+.dev {
+  position: absolute;
+  width: 80px;
+  height: 40px;
+}
+.connect {
+  color: #003049;
+  font-family: "Inria Sans";
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  width: 90px;
+  height: 40px;
+  left: 93px;
+  line-height: 29.98px;
+  padding-top: 5px;
+}
+.rectangle {
+  position: absolute;
+  width: 315px;
+  height: 390px;
+  top: 381px;
+  left: 61px;
+  background-color: #003049;
+}
+.profilephoto {
+  position: absolute;
+  background-image: url("Assets/Ellipse 13.svg");
+  width: 188px;
+  height: 189px;
+  left: 64px;
+  right: 63px;
+  top: 26px;
+}
+.name {
+  position: absolute;
+  height: 45px;
+  width: 210px;
+
+  color: #ffffff;
+  font-size: 30px;
+  line-height: 35.97px;
+  left: 53px;
+  top: 241px;
+  font-weight: 700;
+}
+.name1 {
+  position: absolute;
+  width: 156px;
+  height: 22px;
+  left: 80px;
+  top: 286px;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 22px;
+  color: #ffffff;
+}
+.git {
+  background-image: url("Assets/Vector (4) 4.png");
+  position: absolute;
+  width: 30px;
+  height: 28px;
+  top: 334px;
+  left: 119px;
+}
+.linkedin {
+  background-image: url("Assets/Vector (3) 3.png");
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 334px;
+  left: 169px;
+}
+.rect {
+  position: absolute;
+  width: 6px;
+  height: 240px;
+  top: 495px;
+  left: 432px;
+  border-radius: 3px 0px 0px 0px;
+  background-color: #003049;
+}
+.bold {
+  font-size: 30px;
+  line-height: 36px;
+  width: 515px;
+  position: absolute;
+  height: 189px;
+  top: 496px;
+  left: 462px;
+  color: #003049;
+  display: flex;
+  flex-direction: column;
+  font-weight: 700;
+  justify-content: space-between;
+}
+.organization {
+  position: absolute;
+  width: 575px;
+  height: 36px;
+  top: 699px;
+  left: 462px;
+}
+.og {
+  font-size: 30px;
+  line-height: 36px;
+  color: #003049;
+  font-weight: 700;
+}
+.home {
+  position: absolute;
+  width: 56px;
+  height: 60px;
+  left: 1750px;
+  top: 5px;
+}
